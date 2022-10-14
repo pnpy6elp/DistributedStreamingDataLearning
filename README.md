@@ -1,1 +1,1 @@
-# DistributedStreamingDataLearning
+# Distributed Streaming Data Learning
